@@ -1,6 +1,6 @@
 # Welcome to ThatSINEWAVE's GitHub! 🌊
 
-Hello there! I’m the mind behind ThatSINEWAVE, where the amplitude of creativity meets the frequency of innovation. I code, create, and collaborate mainly in Python, HTML, and JavaScript, crafting seamless experiences for the web.
+Hello there! I’m the mind behind ThatSINEWAVE, where the amplitude of creativity meets the frequency of innovation. I code, create, and collaborate mainly in Python and Java, crafting fun experiences for the web.
 
 ## 🏢 Professional Ventures:
 
@@ -10,7 +10,7 @@ Hello there! I’m the mind behind ThatSINEWAVE, where the amplitude of creativi
 ## 💻 Coding Philosophy:
 
 - I believe in writing clean, efficient code that not only works but also tells a story.
-- Passionate about UI/UX design, I strive to build interfaces that are not just user-friendly but also visually appealing.
+- Passionate about random fun projects, I strive to build ideas that are not just user-friendly but also very useful.
 - Committed to open-source. Sharing knowledge and contributing to the community is what drives me forward.
 
 ## 🎮 Fun Fact:
