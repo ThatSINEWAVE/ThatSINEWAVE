@@ -22,6 +22,8 @@ It's my way of unwinding and getting a fresh perspective on the complexities of 
 - And yeah, there are plenty of mini-apps, each a tribute to the sheer bliss of crafting something outta nothing, powered by pure imagination and a bit of coding magic.
 - So, that's the gist! Stick around, and let's see where this wave takes us. Thanks for dropping by! 🌊
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## 🤓 Nerdy Stats:
 <img src="https://komarev.com/ghpvc/?username=ThatSINEWAVE&color=red" alt="watching_count" /> <img alt="followers" src="https://img.shields.io/github/followers/ThatSINEWAVE?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/ThatSINEWAVE?label=Stars" alt="stars">
 <img src="https://myreadme.vercel.app/api/embed/ThatSINEWAVE?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
