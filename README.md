@@ -27,7 +27,7 @@ So, that's the gist! Stick around, and let's see where this wave takes us. Thank
 # Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/that_sinewave) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sinewave_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thatsinewave_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThatSINEWAVE) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFzHd867bx9rxlg6wHJKivA) 
-<img src="https://komarev.com/ghpvc/?username=ThatSINEWAVE&color=red" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=ThatSINEWAVE&color=grey" alt="watching_count" />
 <img alt="followers" src="https://img.shields.io/github/followers/ThatSINEWAVE?label=Followers&style=social">
 <img src="https://img.shields.io/github/stars/ThatSINEWAVE?label=Stars" alt="stars">
 </div>
