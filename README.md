@@ -44,9 +44,7 @@ So, that's the gist! Stick around, and let's see where this wave takes us. Thank
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThatSINEWAVE&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThatSINEWAVE&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatSINEWAVE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
