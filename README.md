@@ -13,7 +13,7 @@ Also, I've got my hands in the real estate cookie jar, blending market savvy wit
 
 <div align="center">
 
-# My Coding Mantra:
+# My Coding Mantra
 
 I'm all about those quirky, fun projects that not only delight users but are downright handy.
 Experimental ventures are my playground, where I let my curiosity roam free, coding up whatever "what-ifs" pop into my head, each a snapshot of those lightbulb moments that hit me.
