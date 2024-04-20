@@ -1,24 +1,17 @@
 
 <div align="center">
   
-# About me
-
-Dive in where my love for coding meets my endless quest for innovation. 
-Here, I'm all about turning ideas into reality, mainly using Python and JavaScript to spice up the web with some seriously cool projects.
-I'm the brains and brawn behind a kickass company that's focused on Online Stores & Digital Marketing Solutions.
-Also, I've got my hands in the real estate cookie jar, blending market savvy with tech smarts to flip the script on property buying and investing.
-**Fun fact**: When I'm off-duty, you'll find me in games, hunting down bugs like they're treasure. It's my way of unwinding and getting a fresh perspective on the complexities of software and game development.
+| <h1>About me</h1> |
+|:---:|
+Dive in where my love for coding meets my endless quest for innovation. Here, I'm all about turning ideas into reality, mainly using Python and JavaScript to spice up the web with some seriously cool projects. I'm the brains and brawn behind a kickass company that's focused on Online Stores & Digital Marketing Solutions. Also, I've got my hands in the real estate cookie jar, blending market savvy with tech smarts to flip the script on property buying and investing. **Fun fact**: When I'm off-duty, you'll find me in games, hunting down bugs like they're treasure. It's my way of unwinding and getting a fresh perspective on the complexities of software and game development.
 
 </div>
 
 <div align="center">
 
-# My Coding Mantra
-
-I'm all about those quirky, fun projects that not only delight users but are downright handy.
-Experimental ventures are my playground, where I let my curiosity roam free, coding up whatever "what-ifs" pop into my head, each a snapshot of those lightbulb moments that hit me.
-And yeah, there are plenty of mini-apps, each a tribute to the sheer bliss of crafting something outta nothing, powered by pure imagination and a bit of coding magic.
-So, that's the gist! Stick around, and let's see where this wave takes us. Thanks for dropping by! 🌊
+| <h1>My Coding Mantra</h1> |
+|:---:|
+| I'm all about those quirky, fun projects that not only delight users but are downright handy. Experimental ventures are my playground, where I let my curiosity roam free, coding up whatever "what-ifs" pop into my head, each a snapshot of those lightbulb moments that hit me. And yeah, there are plenty of mini-apps, each a tribute to the sheer bliss of crafting something outta nothing, powered by pure imagination and a bit of coding magic. So, that's the gist! Stick around, and let's see where this wave takes us. Thanks for dropping by! 🌊 |
 
 </div>
 
