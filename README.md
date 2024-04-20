@@ -11,7 +11,7 @@ Dive in where my love for coding meets my endless quest for innovation. Here, I'
 
 | <h1>My Coding Mantra</h1> |
 |:---:|
-| I'm all about those quirky, fun projects that not only delight users but are downright handy. Experimental ventures are my playground, where I let my curiosity roam free, coding up whatever "what-ifs" pop into my head, each a snapshot of those lightbulb moments that hit me. And yeah, there are plenty of mini-apps, each a tribute to the sheer bliss of crafting something outta nothing, powered by pure imagination and a bit of coding magic. So, that's the gist! Stick around, and let's see where this wave takes us. Thanks for dropping by! 🌊 |
+| I'm all about those quirky, fun projects that not only delight users but are downright handy. Experimental ventures are my playground, where I let my curiosity roam free, coding up whatever "what-ifs" pop into my head, each a snapshot of those lightbulb moments that hit me. And yeah, there are plenty of mini-apps, each a tribute to the sheer bliss of crafting something outta nothing, powered by pure imagination and a bit of coding magic. So, that's the gist! Stick around, and let's see where this wave takes us. Thanks for dropping by! |
 
 </div>
 
