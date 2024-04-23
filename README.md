@@ -17,7 +17,7 @@ Dive in where my love for coding meets my endless quest for innovation. Here, I'
 
 <div align="center">
 
-# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
 
 </div>
 
